@@ -87,22 +87,4 @@ public class StringCalculatorTest {
 }
 
 
-create table isha_movie(
-name varchar(50), genre varchar(50), rating integer, language varchar(50)
-); insert into isha_movie
-values
-("Movie 1","Horror",1,"ENGLISH"),
-("Movie 2","Horror",2,"Gujarati"),
-("Movie 3","thriller",3,"Marathi"),
-("Movie 4","thriller",4,"Urdu"),
-("Movie 5","Science",5,"Punjabi"),
-("Movie 6","Science Fiction",1,"ENGLISH"),
-("Movie 7","Science Fiction",2,"Gujarati"),
-("Movie 8","Drama",3,"Marathi"),
-("Movie 9","Drama",5,"Urdu"),
-("Movie 11","Comedy",1,"Punjabi"),
-("Movie 12","Comedy",2,"ENGLISH"),
-("Movie 13","Comedy",3,"Gujarati"),
-("Movie 14","Comedy",4,"Marathi"),
-("Movie 15","Comedy",5,"Urdu"); 
-select * from isha_movie;
+
